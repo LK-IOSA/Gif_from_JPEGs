@@ -1,0 +1,20 @@
+# Python byte-code caches
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / build artefacts
+dist/
+build/
+*.egg-info/
+
+# OS metadata
+.DS_Store
+Thumbs.db
